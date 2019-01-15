@@ -1,3 +1,4 @@
+
 # Data & Web Technologies for Statistical Analysis
 
 This is the notes repository for STA 141B, Winter 2019.
@@ -13,3 +14,6 @@ Important links:
 * [Graphics Checklist](https://github.com/nick-ulle/teaching-notes/blob/master/sta141a/graphics_checklist.pdf)
 
 This is my edit
+
+Another edit
+
