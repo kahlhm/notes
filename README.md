@@ -13,7 +13,8 @@ Important links:
 * [Participation Log](https://goo.gl/forms/I2Ws5iltOPLVJeEi1)
 * [Graphics Checklist](https://github.com/nick-ulle/teaching-notes/blob/master/sta141a/graphics_checklist.pdf)
 
-This is my edit
 
-Another edit
+This my edit
+This is the local edit
+This is another edit
 
