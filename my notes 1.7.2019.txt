@@ -1,0 +1,21 @@
+1.7.2019
+
+[]Set up Anaconda
+[]Open Jupyter notebook
+[]Test out Python script
+Really good documentation
+"True" instead of "TRUE"
+"None" in Python is "NA"
+"NAN" used in Python as well for missing value
+"type" to see what is in the variable
+how to define function: write "def"
+e.g:
+def
+square_it: 
+   return x**2
+To get help:
+help(print)
+OR
+print?
+To see source code:
+square_it?? 
