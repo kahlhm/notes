@@ -1,6 +1,6 @@
 # STA 141B Final Project
 
-_Keep an eye on this page, it may be updated! Latest Update: Jan 24_
+_Keep an eye on this page, it may be updated! Latest Update: Jan 31_
 
 Description: You should work in a group of 3-4 people (no more than 4). The
 purpose of the project is to provide you with real data science experience,
@@ -36,9 +36,14 @@ Once you've selected a project topic, you can start working on the project
 proposal and the project itself.
 
 As inspiration and an example of what can be done with public datasets, see [I
-Quant NY][NY]. A sample project will be posted in the next week or two.
+Quant NY][NY]. Sample projects from previous years:
+
+* [Sample 1][s1]
+* [Sample 2](https://palautatan.github.io/project141b/)
 
 [NY]: http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally
+
+[s1]: https://nachanta.github.io/Portfolio/The%2BGender%2BGap_STA141B%2BFinal%2BProject%20(1).html
 
 ## Components
 
@@ -79,6 +84,10 @@ The proposal will be graded satisfactory/unsatisfactory. Your priority should
 be working on the project itself; don't spend more than a few hours working on
 the proposal. Make sure all group members have read the proposal and agree on
 what it says.
+
+Submit your proposal in your project repository. Make sure it is labelled
+clearly (it helps if you put a link in your `README.md`). The proposal should
+be a Markdown File (`.md`) or Jupyter Notebook (`.ipynb`).
 
 ### Presentation
 
